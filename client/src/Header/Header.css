@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+body {
+    font-family: 'Noto Serif', serif;
+    height: 100vh;
+}
+.header {
+    height: 100px;
+    background: rgb(41, 198, 112);
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.header__img {
+    height: 100%;
+    width: 100px;
+}
+.header__img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.header__content {
+    padding: 0 10px;
+    height: 100%;
+}
+.header__content h2 {
+    font-size: 1.3rem;
+}

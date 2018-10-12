@@ -1,0 +1,48 @@
+.tab {
+    position: fixed;
+    z-index: 4;
+    height: 50px;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    cursor: pointer;
+    user-select: none;
+}
+.tab > div {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
+.tab > div:active {
+    transform: scaleY(2);
+}
+.tab > div > span {
+    height: 30px;
+    width: 30px;
+    background: white;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tab > div > span.active {
+    color: white;
+    font-weight: 500;
+    background: rgb(15, 13, 13);
+}
+
+.tab > div:nth-child(1) {
+    background: rgb(202, 78, 78);
+}
+.tab > div:nth-child(2) {
+    background: rgb(115, 255, 0);
+}
+.tab > div:nth-child(3) {
+    background: rgb(18, 144, 218);
+}
+.tab > div:nth-child(4) {
+    background: rgb(42, 6, 99);
+}
