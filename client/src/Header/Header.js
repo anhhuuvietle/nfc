@@ -11,6 +11,10 @@ const Header = () => {
             <div className="header__content">
                 <h2>Rau thủy canh</h2>
                 <p>Mã số cây: 1510054</p>
+                <div className="header-content-action">
+                    <button className="btn-success"><i class="far fa-plus-square"></i></button>
+                    <button className="btn-info"><i class="far fa-edit"></i></button>
+                </div>
             </div>
         </div>
     );

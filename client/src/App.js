@@ -48,16 +48,20 @@ class App extends Component {
         title: "Nhật ký chăm sóc",
         content: [
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
+            date: "Ngày 20/ Tháng 9/ Năm 2018",
+            info: "Ngâm viên nén cơ dừa vào nước 3-5 phút Viên nén nở ra, gắp hạt 2-3 hạt mầm vào viên nén",
           },
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
+            date: "Ngày 23/ Tháng 9/ Năm 2018",
+            info: "Đưa cây ra ánh nắng",
           },
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
+            date: "Ngày 1/ Tháng 10/ Năm 2018",
+            info: "Tưới nước cho cây",
+          },
+          {
+            date: "Ngày 1/ Tháng 10/ Năm 2018",
+            info: "Đưa cây con vào hệ thống trồng rau ABCcorp",
           }
         ]
       },
@@ -65,16 +69,20 @@ class App extends Component {
         title: "Nhật ký môi trường",
         content: [
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
+            date: "Ngày 20/ Tháng 9/ Năm 2018",
+            info: "Độ ẩm 10%",
           },
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
+            date: "Ngày 23/ Tháng 9/ Năm 2018",
+            info: "Độ ẩm 10%",
           },
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
+            date: "Ngày 1/ Tháng 10/ Năm 2018",
+            info: "Trời nắng đẹp",
+          },
+          {
+            date: "Ngày 1/ Tháng 10/ Năm 2018",
+            info: "Trời nắng",
           }
         ]
       },
@@ -82,18 +90,20 @@ class App extends Component {
         title: "Nhật ký hành động",
         content: [
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
-            
+            date: "Ngày 20/ Tháng 9/ Năm 2018",
+            info: "Ngâm viên nén cơ dừa vào nước 3-5 phút Viên nén nở ra, gắp hạt 2-3 hạt mầm vào viên nén",
           },
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
-           
+            date: "Ngày 23/ Tháng 9/ Năm 2018",
+            info: "Đưa cây ra ánh nắng",
           },
           {
-            date: "Ngày 25/ Tháng 9/ Năm 2018     ",
-            info: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet, dolor ipsam illo aut",
+            date: "Ngày 1/ Tháng 10/ Năm 2018",
+            info: "Tưới nước cho cây",
+          },
+          {
+            date: "Ngày 1/ Tháng 10/ Năm 2018",
+            info: "Đưa cây con vào hệ thống trồng rau ABCcorp",
           }
         ]
       },
